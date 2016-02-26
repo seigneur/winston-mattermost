@@ -1,8 +1,5 @@
 # winston-mattermost
 
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][npm-downloads]][npm-url]
-[![MIT License][license-image]][license-url]
 
 > A [mattermost][mattermost] transport for [winston][winston].
 
