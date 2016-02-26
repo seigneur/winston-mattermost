@@ -1,0 +1,32 @@
+{
+  "name": "winston-mattermost",
+  "version": "0.0.1",
+  "description": "A Mattermost transport for winston",
+  "author": "Dias Lonappan <dias@bitmessage.ch>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seigneur/winston-mattermost.git"
+  },
+  "keywords": [
+    "logging",
+    "sysadmin",
+    "tools",
+    "chat",
+    "winston",
+    "Mattermost"    
+  ],
+  "dependencies": {
+    "node-mattermost": "0.0.1",
+    "lodash": "~2.2.1"
+  },
+  "devDependencies": {
+    "winston": "~0.7"
+  },
+  "peerDependencies": {
+    "winston": "<=0.8 || >=0.7"
+  },
+  "main": "winston-mattermost",
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
